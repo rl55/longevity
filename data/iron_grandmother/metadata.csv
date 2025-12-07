@@ -1,0 +1,2 @@
+persona_name,persona_key,lambda_hr,lambda_hrv,lambda_glucose,start_time,days,resting_hr_baseline,hrv_rmssd_baseline,glucose_baseline,outlier_probability
+Iron Grandmother (70yo Athlete),iron_grandmother,0.8,0.75,0.7,2024-11-25 00:00:00,7,55,45,92,0.005

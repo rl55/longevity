@@ -1,0 +1,2 @@
+persona_name,persona_key,lambda_hr,lambda_hrv,lambda_glucose,start_time,days,resting_hr_baseline,hrv_rmssd_baseline,glucose_baseline,outlier_probability
+Frail Baseline (80yo),frail_baseline,0.05,0.08,0.12,2024-11-25 00:00:00,7,68,18,115,0.012

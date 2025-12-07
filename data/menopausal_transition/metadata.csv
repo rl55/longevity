@@ -1,0 +1,2 @@
+persona_name,persona_key,lambda_hr,lambda_hrv,lambda_glucose,start_time,days,resting_hr_baseline,hrv_rmssd_baseline,glucose_baseline,outlier_probability
+Menopausal Transition (50yo),menopausal_transition,0.45,0.35,0.4,2024-11-25 00:00:00,7,68,32,98,0.006

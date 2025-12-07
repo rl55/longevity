@@ -1,0 +1,5 @@
+persona_key,persona_name,lambda_hr,lambda_hrv,lambda_glucose,resilience_category
+iron_grandmother,Iron Grandmother (70yo Athlete),0.8,0.75,0.7,High
+stressed_executive,"Stressed Executive (40yo, No Sleep)",0.2,0.15,0.25,Low
+menopausal_transition,Menopausal Transition (50yo),0.45,0.35,0.4,Variable
+frail_baseline,Frail Baseline (80yo),0.05,0.08,0.12,Critical

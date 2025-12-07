@@ -1,0 +1,2 @@
+persona_name,persona_key,lambda_hr,lambda_hrv,lambda_glucose,start_time,days,resting_hr_baseline,hrv_rmssd_baseline,glucose_baseline,outlier_probability
+"Stressed Executive (40yo, No Sleep)",stressed_executive,0.2,0.15,0.25,2024-11-25 00:00:00,7,72,28,105,0.008
