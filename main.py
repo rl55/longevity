@@ -20,9 +20,9 @@ app.add_middleware(
 # We merge them on timestamp for a synchronized stream
 def load_data():
     try:
-        hr = pd.read_csv("data/heart_rate.csv")
-        hrv = pd.read_csv("data/hrv.csv")
-        gluc = pd.read_csv("data/glucose.csv")
+        hr = pd.read_csv("data/stressed_executive/heart_rate.csv")
+        hrv = pd.read_csv("data/stressed_executive/hrv.csv")
+        gluc = pd.read_csv("data/stressed_executive/glucose.csv")
         
         # Rename columns for easier merging
         hr = hr.rename(columns={"heart_rate_bpm": "hr", "context": "context"})
